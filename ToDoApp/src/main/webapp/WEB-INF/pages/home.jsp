@@ -7,7 +7,7 @@
 <title>Home</title>
 </head>
 <body>
-<h2 style: color="blue">A friend is one that knows you as you are, understands where you have been, 
-accepts what you have become, and still, gently allows you to grow.</h2>
+<h2 style="color:blue;">A friend is one that knows you as you are,<br> understands where you have been, 
+accepts what you have become, and still,<br> gently allows you to grow.</h2>
 </body>
 </html>
